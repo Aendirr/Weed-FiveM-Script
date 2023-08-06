@@ -9,6 +9,7 @@ In the "stream" folder in Ymap.
 
 # Dependencies
 - ***QBcore***
+- ***Mythic Progbar***
 
 #Installation
 
