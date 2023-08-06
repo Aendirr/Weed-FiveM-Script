@@ -19,6 +19,6 @@ Add code below
 ```lua
 
     ['weed'] 				    = {['name'] = 'weed', 			 				['label'] = 'Esrar', 									['weight'] = 200, 		['type'] = 'item', 			['image'] = 'weed_seed.png', 						['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'İçinde 2g bulunan Skunk'},
-	  ['weed_islenmis'] 		    = {['name'] = 'weed_islenmis', 					['label'] = 'İşlenmiş Esrar', 									['weight'] = 200, 		['type'] = 'item', 			['image'] = 'weed_baggy.png', 						['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'İçinde 2g bulunan Skunk'},
+    ['weed_islenmis'] 		    = {['name'] = 'weed_islenmis', 					['label'] = 'İşlenmiş Esrar', 									['weight'] = 200, 		['type'] = 'item', 			['image'] = 'weed_baggy.png', 						['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'İçinde 2g bulunan Skunk'},
 	
 ```
