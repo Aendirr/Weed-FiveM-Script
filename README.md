@@ -8,7 +8,7 @@ In the "stream" folder in Ymap.
 
 
 # Dependencies
--QBcore
+- ***QBcore***
 
 #Installation
 
