@@ -23,3 +23,6 @@ Add code below
     ['weed_islenmis'] 		    = {['name'] = 'weed_islenmis', 					['label'] = 'İşlenmiş Esrar', 									['weight'] = 200, 		['type'] = 'item', 			['image'] = 'weed_baggy.png', 						['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'İçinde 2g bulunan Skunk'},
 	
 ```
+# Sorun olursa eğer
+
+[Discord Kanalım](https://discord.gg/46fa6GF9uF)
